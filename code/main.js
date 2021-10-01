@@ -1,3 +1,4 @@
+import "./styles.css";
 import { getOutcome, getChoices, getComputerChoice } from "./game";
 import { clearChildren } from "./utils";
 import Rock from "./assets/rock.png";
